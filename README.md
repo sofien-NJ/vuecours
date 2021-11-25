@@ -1,2 +1,2 @@
 # vue train
-<img src="download.png" />
+<img src="download.png" align="center" />
